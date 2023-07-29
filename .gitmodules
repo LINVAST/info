@@ -1,0 +1,3 @@
+[submodule "LICC"]
+	path = LICC
+	url = git@github.com:ivan-ristovic/LICC
